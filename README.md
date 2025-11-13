@@ -142,7 +142,7 @@ Real-time emotion-based story generator using CNN + OpenCV
 ---
 
 # 💼 Resume
-📄 [Download My Resume]([https://github.com/shivam290204](https://drive.google.com/file/d/1ZHvYXCQrYaqFduwo-71SmDHSZijpElfC/view?usp=sharing))
+📄 [Download My Resume](https://drive.google.com/file/d/1ZHvYXCQrYaqFduwo-71SmDHSZijpElfC/view?usp=sharing)
 
 ---
 
