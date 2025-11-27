@@ -21,8 +21,7 @@
 - 💬 **Ask me about:**  
   DSA, LeetCode strategies, ML projects, Firebase, React.js, Python automation, API development.
 
-- ✨ **Fun fact:**  
-  I enjoy debugging as much as eating *golgappas* — both give a weird sense of satisfaction! 😄
+
 
 ---
 
