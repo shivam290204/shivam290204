@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
-<h3 align="center">AI/ML Engineer • DSA Learner • Full Stack Developer • Problem Solver</h3>
+<h3 align="center">AI/ML Engineer • Software Engineer • Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+in+Computer+Science+(2023-27);AI%2FML+Engineer+Intern+at+IBM;DSA+%7C+LeetCode+%7C+System+Design+Learner;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Skills" />
