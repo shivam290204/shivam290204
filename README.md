@@ -91,15 +91,6 @@
 
 ---
 
-# 🏆 Achievements
-
-- 🥇 **Smart India Hackathon 2025 — Finalist** (Top 3% among 15,000+ teams)
-- 🏆 **AI/ML Engineer Intern at IBM (2025)** – Delivered 3 major healthcare AI systems
-- 🌍 Open-source contributor (10+ projects)
-- 👑 Solved **100+ problems** on LeetCode, NeetCode & GFG
-- 📌 Led a team of 4 developers in multiple hackathons & projects
-
----
 
 
 # 📈 GitHub Stats
