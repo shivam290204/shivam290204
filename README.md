@@ -101,21 +101,6 @@
 
 ---
 
-# 🔥 Featured Projects
-
-### ⚡ Energy Shield Smart Grid AI  
-🔗 https://github.com/shivam290204/Energy-shield  
-AI-based electricity theft detection system (92% accuracy)
-
-### 🤖 AI Healthcare Assistant Platform  
-🔗 https://github.com/shivam290204/AI-Health-Care-Assistant  
-Multi-feature platform using Gemini API for 500+ users
-
-### 😄 Emotion-Driven Interactive Storyteller  
-🔗 https://github.com/shivam290204/Emotion-Driven-Storyteller  
-Real-time emotion-based story generator using CNN + OpenCV
-
----
 
 # 📈 GitHub Stats
 
