@@ -7,18 +7,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎯 **Currently working on:**  
+-  **Currently working on:**  
   Mastering **Data Structures & Algorithms**, improving coding efficiency in **C++ & Python**, and preparing for top tech internships (Google/Microsoft).
 
-- 🤝 **Open to collaborate on:**  
+-  **Open to collaborate on:**  
   AI/ML, full-stack development, open-source projects, and scalable backend systems.
 
-- 🚀 **Currently learning:**  
+-  **Currently learning:**  
   Machine Learning, Deep Learning, NLP, Database Design, and System Design.
 
-- 💬 **Ask me about:**  
+-  **Ask me about:**  
   DSA, LeetCode strategies, ML projects, Firebase, React.js, Python automation, API development.
 
 
@@ -44,15 +44,15 @@
 
 ---
 
-# 🧠 Skills & Technologies
+#  Skills & Technologies
 
-## 👨‍💻 Programming Languages
+##  Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🤖 AI / ML & Data Science
+##  AI / ML & Data Science
 ![Machine Learning](https://img.shields.io/badge/ML-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -63,7 +63,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C5A6B?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white)
 
-## 🌐 Web Development
+##  Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -72,18 +72,18 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 🗄️ Databases
+##  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ☁️ Cloud & DevOps
+##  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🛠️ Tools
+##  Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -93,7 +93,7 @@
 
 
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam290204&theme=tokyonight" />
@@ -109,14 +109,14 @@
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 💼 Resume
+#  Resume
 📄 [Download My Resume](https://drive.google.com/file/d/1ZHvYXCQrYaqFduwo-71SmDHSZijpElfC/view?usp=sharing)
 
 ---
@@ -127,12 +127,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
