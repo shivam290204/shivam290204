@@ -152,6 +152,6 @@
 
 # 📄 Resume
 
-📌 [Download Resume](https://drive.google.com/file/d/1ZHvYXCQrYaqFduwo-71SmDHSZijpElfC/view)
+📌 [Download Resume](https://drive.google.com/file/d/1uWz9eQWzpidw6PTk6PmPAN6RWr1_FuCE/view?usp=sharing)
 
 ---
