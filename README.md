@@ -1,96 +1,92 @@
-# Shivam Tiwari
+<h1 align="center">Shivam Tiwari</h1>
 
-Full Stack Java Developer | AI/ML Enthusiast
+<p align="center">
+  Full Stack Java Developer • AI/ML Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivam290204">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/shivam-tiwari-383761292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/shivam_290204/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
 ## About Me
 
 - B.Tech CSE Student (2023–2027)
-- Interested in Backend Development, AI/ML, and scalable systems
+- Focused on Backend Development and AI/ML
 - Currently learning Spring Boot, System Design, and Machine Learning
-- Focused on building real-world full-stack applications
-- Active in DSA and problem solving
+- Interested in scalable systems and real-world applications
+- Active in Data Structures & Algorithms
 
 ---
 
 ## Technical Skills
 
 ### Languages
-- Java
-- Python
-- JavaScript
-- C
+`Java` `Python` `JavaScript` `C`
 
 ### Backend
-- Spring Boot
-- Node.js
-- REST APIs
+`Spring Boot` `Node.js` `REST APIs`
 
 ### Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
+`React.js` `Next.js` `HTML` `CSS` `Tailwind CSS`
 
 ### Databases
-- MySQL
-- MongoDB
+`MySQL` `MongoDB`
 
 ### AI/ML
-- Machine Learning
-- NumPy
-- Pandas
-- Scikit-Learn
+`Machine Learning` `NumPy` `Pandas` `Scikit-Learn`
 
 ### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
-- IntelliJ IDEA
-- Vercel
-
-### Core CS
-- Data Structures & Algorithms
-- DBMS
-- Operating Systems
-- Computer Networks
-- Object-Oriented Programming
+`Git` `GitHub` `Docker` `VS Code` `IntelliJ IDEA`
 
 ---
 
 ## Projects
 
 ### Research Assistant
-**Tech Stack:** Java, Spring Boot, Gemini API, Chrome Extension
+**Java • Spring Boot • Gemini API • Chrome Extension**
 
-- Developed an AI-powered research assistant for real-time text summarization and analysis
+- Developed an AI-powered research assistant for real-time summarization
 - Integrated Gemini API for intelligent response generation
-- Built REST APIs and implemented secure API handling
+- Built REST APIs and secure API handling
 - Created a Chrome Extension for browser-based usage
 
-### Smart FloodWatch
-**Tech Stack:** React.js, Node.js, Leaflet API
+---
 
-- Developed a flood monitoring platform with real-time reporting
+### Smart FloodWatch
+**React.js • Node.js • Leaflet API**
+
+- Built a flood monitoring platform with real-time reporting
 - Integrated geospatial visualization using Leaflet API
-- Built responsive frontend components and backend communication systems
+- Developed responsive frontend and backend communication systems
+
+---
 
 ### Business Support Portal
-**Tech Stack:** Next.js, JavaScript, Tailwind CSS
+**Next.js • Tailwind CSS • JavaScript**
 
-- Developed a modular and responsive business support portal
-- Designed reusable UI components and scalable frontend architecture
-- Improved frontend performance through optimized rendering techniques
+- Developed a modular and responsive business support platform
+- Designed reusable UI components
+- Improved frontend performance and scalability
+
+---
 
 ### Smart Electricity Theft Detection System
-**Tech Stack:** JavaScript, HTML/CSS, MySQL
+**JavaScript • MySQL • HTML/CSS**
 
-- Developed a monitoring system to detect abnormal electricity usage patterns
-- Integrated database-driven tracking and alert systems
-- Built dashboards for usage analytics and monitoring
+- Developed a monitoring system to detect abnormal electricity usage
+- Built dashboards for analytics and alert monitoring
 
 ---
 
@@ -99,24 +95,32 @@ Full Stack Java Developer | AI/ML Enthusiast
 ### AI Summer Training — IBM SkillsBuild & CSRBOX
 **July 2025 – August 2025**
 
-- Completed project-based training focused on Agentic AI and intelligent systems
-- Worked on AI workflows, automation concepts, and deployment strategies
-- Gained practical exposure to AI system design
+- Worked on Agentic AI and intelligent systems
+- Built AI workflow and automation-based projects
+- Learned AI architecture and deployment concepts
 
 ---
 
 ## Achievements
 
-- Solved 250+ DSA problems across coding platforms
+- Solved 250+ DSA problems
 - Participated in Smart India Hackathon
 - Participated in national-level hackathons
 - IBM SkillsBuild Certified in Agentic AI
 
 ---
 
-## Profiles
+## GitHub Stats
 
-- GitHub: https://github.com/shivam290204
-- LinkedIn: https://www.linkedin.com/in/shivam-tiwari-383761292/
-- LeetCode: https://leetcode.com/u/shivam_290204/
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam290204&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam290204&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
 - Email: shivam290204tiwari@gmail.com
+- Portfolio: Coming Soon
