@@ -35,7 +35,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <table>
 <tr>
@@ -56,40 +56,10 @@ interests:
   - Real-World Applications
   - Data Structures & Algorithms
 dsa_solved: 250+ problems
-status: Open to Internships & Collaborations 🚀
+status: Open to Internships & Collaborations 
 ```
 
-</td>
-<td width="35%" valign="top" align="center">
 
-<pre style="font-size:3px; line-height:3px; color:#6C63FF; font-family: 'Courier New', monospace; letter-spacing:0px; margin:0;">
------------------,,-==--,,,------------------
----------------,+i0$&8$WIi:------------------
---------------=1%@@@@@#@@@%0---------------,-
-----------=++J8##8W01IIIQW%%;----------------
---------=+:;:l##&QIJ;;;;Ji0#1,---------------
--------+:;;;;;W@WQQ1IJ:l1Q18J,---------------
--------=:;;;JJl%10WQ0Ii1Q1l1l=---------------
---------+;;JJJ1$IlliI1iiJJJll=---------------
---------=;;JJJl0QIii101IiJii:----------------
---------=;;JJiiiIQI1Q11I1Il+-----------------
---------=;;JJJiii1WW0111Q0i,-----------------
----------=;JJJiiiQ0$$$WW01i------------------
-----------=:JJili01I11Illl1++=---------------
---------==+Ji;JliJIlliiii1ili;;:+=-----------
-----==:JJ:;Il;JlW1;iiJJJilJ1i+JI:;iJ==-------
--=+:J:Jli::ll:+JIl;:JiiIi:;IJ++lJ;Ii+:J=-----
-:;;ii;:il+:ll;+:li++JI:IJ=:lJ+=Ji:;l:;;i=----
-;JJl;llil+:il;+:li++;l+li=+li+=;l;=;il:JJ----
-JJll:lIlI;:Jl;+:li:+;l=il=;;;::;l;=;ll::i+---
-JiIi:IiiIi:il;++li:+:l=JI=;:Jii;++:JIl;+i:---
-iiIi;lIJ1QiiIJ+:li:+:I+JI=+iJ:==:JillI;+l:=--
-illiJlI;Q0iJIJ+:li:+:I+JI=+++:;iiJ:ll1:+J;+--
-iiIJJll;I11iIl::li;+:I+JI++;iiJ:+:JI1I;+iJ+=-
-ill;;Il:i0I;Il;:ll;+:I+;I++Ji:+:JiJl1I;+ii:=-
-iIJ;iIl;10l;II;:ll;+:I+;1++Jl:+lJJJJQI;+il:+-
-l1;:iIiJWl1Ji1l;lIJ+:I+;1++Jl;+l;;Ji01;+Jl;+=
-</pre>
 
 </td>
 </tr>
@@ -97,39 +67,34 @@ l1;:iIiJWl1Ji1l;lIJ+:I+;1++Jl;+l;;Ji01;+Jl;+=
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### ⚙️ Backend
+###  Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6584?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### 🔧 Tools & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -140,50 +105,50 @@ l1;:iIiJWl1Ji1l;lIJ+:I+;1++Jl;+l;;Ji01;+Jl;+=
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Research Assistant
+### Research Assistant
 **`Java`** **`Spring Boot`** **`Gemini API`** **`Chrome Extension`**
 
-- 🤖 AI-powered assistant for **real-time summarization**
-- 🔗 Integrated **Gemini API** for intelligent responses
-- 🛡️ Built REST APIs with **secure API handling**
-- 🌐 Chrome Extension for **browser-based usage**
+- AI-powered assistant for **real-time summarization**
+- Integrated **Gemini API** for intelligent responses
+- Built REST APIs with **secure API handling**
+- Chrome Extension for **browser-based usage**
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Smart FloodWatch
+### Smart FloodWatch
 **`React.js`** **`Node.js`** **`Leaflet API`**
 
-- 🗺️ Flood monitoring with **real-time reporting**
-- 📍 **Geospatial visualization** using Leaflet API
-- 📡 Responsive frontend & backend communication
+- Flood monitoring with **real-time reporting**
+- **Geospatial visualization** using Leaflet API
+- Responsive frontend & backend communication
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Business Support Portal
+### Business Support Portal
 **`Next.js`** **`Tailwind CSS`** **`JavaScript`**
 
-- 🧩 **Modular & responsive** business platform
-- ♻️ Designed reusable UI components
-- ⚡ Improved frontend **performance & scalability**
+- **Modular & responsive** business platform
+- Designed reusable UI components
+- Improved frontend **performance & scalability**
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Smart Electricity Theft Detection
+### Smart Electricity Theft Detection
 **`JavaScript`** **`MySQL`** **`HTML/CSS`**
 
-- 🔍 Monitors **abnormal electricity usage**
-- 📊 Dashboards for **analytics & alert monitoring**
+- Monitors **abnormal electricity usage**
+- Dashboards for **analytics & alert monitoring**
 
 </td>
 </tr>
@@ -191,33 +156,26 @@ l1;:iIiJWl1Ji1l;lIJ+:I+;1++Jl;+l;;Ji01;+Jl;+=
 
 ---
 
-## 💼 Experience
 
-### 🤖 AI Summer Training — IBM SkillsBuild & CSRBOX
-**📅 July 2025 – August 2025**
-
-> 🧠 Worked on **Agentic AI** and intelligent systems
-> ⚙️ Built AI workflow and **automation-based projects**
-> 🏗️ Learned AI **architecture and deployment** concepts
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-| 🏅 Achievement | Details |
+| Achievement | Details |
 |---|---|
-| 💡 DSA Problems Solved | **250+ Problems** across platforms |
+|  DSA Problems Solved | **300+ Problems** across platforms |
 | 🇮🇳 Smart India Hackathon | Participant |
-| 🌐 National Hackathons | Multiple participations |
-| 🎓 IBM Certification | SkillsBuild Certified in **Agentic AI** |
+| National Hackathons | Multiple participations |
+| IBM Certification | SkillsBuild Certified in **Agentic AI** |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
