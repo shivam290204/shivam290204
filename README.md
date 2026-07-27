@@ -3,6 +3,9 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF6584,100:43E97B&height=200&section=header&text=Shivam%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
+<!-- Profile Photo -->
+<img src="assets/profile.jpg" width="160" style="border-radius: 50%; border: 3px solid #6C63FF; padding: 3px;" alt="Shivam Tiwari" />
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Solving+DSA+Problems+Daily+%F0%9F%A7%A9;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
