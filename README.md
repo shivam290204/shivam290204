@@ -3,53 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF6584,100:43E97B&height=200&section=header&text=Shivam%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Profile Photo -->
-<div align="center">
-<pre style="font-size:3px; line-height:3px; color:#6C63FF; font-family: 'Courier New', monospace; letter-spacing:0px;">
-------------------------------,,,,,-=-------------------------------,-
---------------------------,,-+:;lJ:+=,,,,,--------------------------,-
-------------------------,=;I&%%###%%8W1Ii+,,------------------------,-
-----------------------,,l&%########@@@##%&0+,----------------------,,-
--------------------=--;0#####@@##%%88%##@#%I,-----------------------,-
-----------------==+::I###@#%$0Q1IllllI10&@#1+-----------------------,-
---------------=+::::;&###%$QIliJ;;JJJJill8#%l,----------------------,-
-------------=+:::;;;:1@##&Q1IliJ;;::;;ill0%%J,----------------------,-
------------+:::;;;;;;;&@#&1Q1IllJ;::JiI11I8%+,----------------------,-
------------+::;;;;;JJ;i%@QQWW$$$0l;l0$&00I1&=-------------------------
-------------+;;;;;JJJJi$%I100WI10IJiIl1I1iJWl:------------------------
-------------=;;;;JJJJJ10&IIllllI1IiiiiJJJJJ1i:------------------------
--------------+;;;JJJJJI0$IIliiJlQQllIi;JJJiIi-----------------------,-
--------------+;;;JJJJJi10QIIliiIQ0QQ1liJJili+-----------------------,-
--------------+;;;JJJJiiiI1Q1llQ00Q11111liIJ-------------------------,-
--------------=;;;JJJJiiiiiI0Q1QQ1111II1I1I----------------------------
--------------=;;;JJJJiiiiiiQWWW0Q1III110Q;,---------------------------
---------------+;;;JJJJiiiii1W$$$$WWWWW0Q1;,---------------------------
----------------+;;JJJJiiiJ00Q0W$$$$WW0QIlI=---------------------------
-----------------+;JJJJiii;0W1I11111IlllilQ++=-------------------------
------------------=;JiiJl1J:1QIlllliiiiilQi++i;+==---------------------
--------------==+:iil;:;JIJJ:lIlllliiiiiQI;1QiJJi;;:+=-----------------
-----------=:JJ:;;IlI;;ilI08i+iliiJJJ;Ji1l;11l+;JlI::Jl::=-------------
------==+::lIlJ+::lllJ::J1Q01l;;JJJ;JiiJ;;;0Ji++;lI+:;QiI++::----------
---=+:;Ji::illJ:::J1iJ++:JIiJ:;:;JJiII1;:+;Q;i=+:;1;;:IlJ++;iJ=--------
-=:;;;;lJ:::i1J++:J1Ji++:;Q;l+++:1ll:I1+++:1;l+++:1;l=J1J++;+lJ=-------
-;;;;;li;Ji:;QJ++:;QJi+++:1JI+++:ll:+I1++++IJl++=+lJi+=l1J+l:;l;-------
-;;JJiI;;lIiJ1i+::;Q;l+++:1;l+++:ll++i0++=+lii:==+iii:=+;I;l;+Ji+------
-;JJJIl;;lilJlI::::1Jl+++:1Jl++++ll++J0:==+JIJ;==+;IJ:=+Jli1:+:lJ=-----
-JJJi1i::lQli1IJ:::1Jl+++:1Jl:+++il++;W:=:i+:::;;;iIJ:++iIil;++ii:-----
-JiJIIi;:1Q;J1iI:+:Q;l+++:IJl:+++J1++;W;=:i+:;JiliJ++=+:Jllli=+iJ;=----
-JiiIIi;;Iii;11IJJJQJI:++:IJl:=++;Q+=:W;=++JiliJ:+===:Jii1IlI++il:+----
-iillIi;;Il1;lQQQJJlII:++:Iil:+++;Q++;0J=++iJ:+===+:JiliIllIi++;1++=---
-iiIi1JJ;I1i;J00I;:iII:++:Iil:+++;Q++:0J=++++==+:JJili::1JlI:++;l:++---
-iiIJQ;;ilIl;J80QiJlII::::lli;+++:Q:+:0i=++++:;JillJ:+:JIlQQ;+:;i;++---
-iillI;:IiQJJ;QI1QillIJ:::lli;+++:Q:+:0i+++;Jiili;+++;i;QQIli:+;li++=--
-ilJ1JJ:li1;:;l01IJiQil:::lIiJ++::Q:+:0i+++;liJ:+=+;ili:WI1lJ:+;il+++--
-ilJ1;J:ilQ;;:l81I:;1ll::;i1Ji+++:Q;==0i+++:I:+++;iiiil+IlQIJ:+;li;++--
-iiIl;;;IiQ;;;001i;;1ll:+:J1Jl++::Q;+:0i=++:1Ji=+iIJ+ii+lQQIi:+:1JJ++=-
-llQ;:;;1iQ;;1$l1Iii111J;;i1ii+++:Q:+:0i=++:1;l=+llJ+ii+l0QIi:+:Iii+++-
-il1;::;Il1;:00J1IJ;JI11JJi1Il:++:Q:+:0i=++:1;l+=li;:iJ;IQQIi:+:lil:++-
-</pre>
-</div>
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Solving+DSA+Problems+Daily+%F0%9F%A7%A9;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -84,6 +37,10 @@ il1;::;Il1;:00J1IJ;JI11JJi1Il:++:Q:+:0i=++:1;l+=li;:iJ;IQQIi:+:lil:++-
 
 ## 🌟 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ```yaml
 name: Shivam Tiwari
 education: B.Tech CSE (2023–2027)
@@ -101,6 +58,42 @@ interests:
 dsa_solved: 250+ problems
 status: Open to Internships & Collaborations 🚀
 ```
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<pre style="font-size:3px; line-height:3px; color:#6C63FF; font-family: 'Courier New', monospace; letter-spacing:0px; margin:0;">
+-----------------,,-==--,,,------------------
+---------------,+i0$&8$WIi:------------------
+--------------=1%@@@@@#@@@%0---------------,-
+----------=++J8##8W01IIIQW%%;----------------
+--------=+:;:l##&QIJ;;;;Ji0#1,---------------
+-------+:;;;;;W@WQQ1IJ:l1Q18J,---------------
+-------=:;;;JJl%10WQ0Ii1Q1l1l=---------------
+--------+;;JJJ1$IlliI1iiJJJll=---------------
+--------=;;JJJl0QIii101IiJii:----------------
+--------=;;JJiiiIQI1Q11I1Il+-----------------
+--------=;;JJJiii1WW0111Q0i,-----------------
+---------=;JJJiiiQ0$$$WW01i------------------
+----------=:JJili01I11Illl1++=---------------
+--------==+Ji;JliJIlliiii1ili;;:+=-----------
+----==:JJ:;Il;JlW1;iiJJJilJ1i+JI:;iJ==-------
+-=+:J:Jli::ll:+JIl;:JiiIi:;IJ++lJ;Ii+:J=-----
+:;;ii;:il+:ll;+:li++JI:IJ=:lJ+=Ji:;l:;;i=----
+;JJl;llil+:il;+:li++;l+li=+li+=;l;=;il:JJ----
+JJll:lIlI;:Jl;+:li:+;l=il=;;;::;l;=;ll::i+---
+JiIi:IiiIi:il;++li:+:l=JI=;:Jii;++:JIl;+i:---
+iiIi;lIJ1QiiIJ+:li:+:I+JI=+iJ:==:JillI;+l:=--
+illiJlI;Q0iJIJ+:li:+:I+JI=+++:;iiJ:ll1:+J;+--
+iiIJJll;I11iIl::li;+:I+JI++;iiJ:+:JI1I;+iJ+=-
+ill;;Il:i0I;Il;:ll;+:I+;I++Ji:+:JiJl1I;+ii:=-
+iIJ;iIl;10l;II;:ll;+:I+;1++Jl:+lJJJJQI;+il:+-
+l1;:iIiJWl1Ji1l;lIJ+:I+;1++Jl;+l;;Ji01;+Jl;+=
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
