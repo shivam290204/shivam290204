@@ -5,19 +5,19 @@
 <br/>
 
 <a href="https://github.com/shivam290204">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shivam-tiwari-383761292/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/shivam_290204/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 <a href="mailto:shivam290204tiwari@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -28,30 +28,23 @@
 
 ---
 
-# About Me
+## About Me
 
 I am a **Computer Science Engineering student** focused on backend development, full-stack applications, and AI-powered systems.
 
 Currently, my primary focus is **Java and Spring Boot**, while continuing to build full-stack applications and explore Artificial Intelligence and Machine Learning.
 
 ```text
-Education        B.Tech in Computer Science & Engineering
-                 2023 – 2027
+Education        B.Tech in Computer Science & Engineering (2023 – 2027)
 
-Primary Focus    Java
-                 Spring Boot
-                 REST APIs
-                 Backend Development
-                 Full Stack Development
+Primary Focus    Java · Spring Boot · REST APIs
+                 Backend Development · Full Stack Development
 
-Currently        Spring Boot
-Learning         System Design
-                 Microservices
-                 Machine Learning
+Currently        Spring Boot · System Design
+Learning         Microservices · AI / LLM Applications
 
-Interests        Scalable Systems
-                 Backend Architecture
-                 AI-powered Applications
+Interests        Backend Architecture · Scalable Systems
+                 AI-powered Applications · Real-time Systems
                  Data Structures & Algorithms
 
 Status           Open to Internships & Collaborations
@@ -59,195 +52,204 @@ Status           Open to Internships & Collaborations
 
 ---
 
-# Technical Skills
+## Technical Skills
 
 <div align="center">
 
-## Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-
-<br/><br/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c"/>
 
 <br/><br/>
 
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-<br/><br/>
-
-## Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
 
 <br/><br/>
 
-## Tools & DevOps
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
+<br/><br/>
+
+**AI & Machine Learning**<br/>
+<img src="https://skillicons.dev/icons?i=python"/><br/>
+`LLM APIs` · `Generative AI` · `Agentic AI` · `Machine Learning` · `Scikit-learn` · `Pipecat`
+
+<br/><br/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+<br/><br/>
+
+**Tools & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman"/>
 
 </div>
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## Research Assistant
+<h3>Dracarys Voice AI Platform</h3>
 
-AI-powered browser assistant designed for real-time research and content summarization.
+<p>A conversational AI platform supporting real-time voice and chat interactions.</p>
 
-**Technology**
+<b>Technology</b><br/>
+<code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Pipecat</code> <code>Docker</code>
 
-`Java` `Spring Boot` `Gemini API` `Chrome Extension`
+<br/><br/>
 
-**Key Features**
-
-* Real-time content summarization
-* AI-powered responses
-* REST API based backend
-* Chrome Extension integration
-* Secure API handling
+<b>Key Features</b>
+<ul>
+  <li>FastAPI backend services</li>
+  <li>Real-time voice pipelines</li>
+  <li>Speech-to-text, LLM and text-to-speech integration</li>
+  <li>Live transcripts and call recordings</li>
+  <li>AI agent builder</li>
+  <li>Next.js/React frontend</li>
+  <li>Docker-based deployment</li>
+</ul>
 
 </td>
-
 <td width="50%" valign="top">
 
-## Smart FloodWatch
+<h3>QuickShopping</h3>
 
-Flood monitoring platform providing reporting and geospatial visualization.
+<p>An AI-powered shopping platform designed to compare and rank products using multiple factors.</p>
 
-**Technology**
+<b>Technology</b><br/>
+<code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Redis</code> <code>Gemini API</code>
 
-`React.js` `Node.js` `Leaflet`
+<br/><br/>
 
-**Key Features**
-
-* Real-time flood reporting
-* Interactive map visualization
-* Geospatial data representation
-* Responsive interface
-* Frontend-backend integration
+<b>Key Features</b>
+<ul>
+  <li>AI-powered product ranking</li>
+  <li>Explainable recommendations</li>
+  <li>Review quality analysis</li>
+  <li>Redis caching</li>
+  <li>Parallel product processing</li>
+  <li>Product comparison</li>
+  <li>Ranking-factor explanations</li>
+</ul>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## Business Support Portal
+<h3>PeerPod – CodeWithFriend</h3>
 
-Responsive business platform designed with reusable and scalable frontend components.
+<p>A real-time collaborative coding platform for working together in a shared development environment.</p>
 
-**Technology**
+<b>Technology</b><br/>
+<code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>WebSockets</code> <code>Yjs</code> <code>JWT</code>
 
-`Next.js` `Tailwind CSS` `JavaScript`
+<br/><br/>
 
-**Key Features**
-
-* Modular architecture
-* Reusable components
-* Responsive UI
-* Performance-focused frontend
+<b>Key Features</b>
+<ul>
+  <li>Real-time collaborative code editor</li>
+  <li>CRDT-based synchronization using Yjs</li>
+  <li>Live multi-user cursors</li>
+  <li>Real-time chat and presence</li>
+  <li>Collaborative whiteboard</li>
+  <li>JWT authentication</li>
+  <li>Sandboxed code execution</li>
+  <li>Room and user management</li>
+</ul>
 
 </td>
-
 <td width="50%" valign="top">
 
-## Smart Electricity Theft Detection
+<h3>AI-Powered Applications</h3>
 
-Monitoring and analytics platform for identifying abnormal electricity consumption.
+<p>I enjoy building applications that combine modern web technologies with AI capabilities.</p>
 
-**Technology**
-
-`JavaScript` `MySQL` `HTML` `CSS`
-
-**Key Features**
-
-* Abnormal usage monitoring
-* Analytics dashboard
-* Alert monitoring
-* Database integration
+<b>Focus Areas</b>
+<ul>
+  <li>Backend Development</li>
+  <li>AI / LLM Integration</li>
+  <li>Real-time Applications</li>
+  <li>REST APIs</li>
+  <li>Database-driven Applications</li>
+  <li>Full Stack Development</li>
+</ul>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# Data Structures & Algorithms
+## Data Structures & Algorithms
+
+I regularly practice Data Structures and Algorithms to improve problem-solving and programming fundamentals.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/DSA-300%2B%20Problems-2563EB?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=java,cpp" />
-
+  <img src="https://img.shields.io/badge/DSA-400%2B%20Problems-2563EB?style=for-the-badge"/>
 </div>
 
-I regularly practice Data Structures and Algorithms with a focus on:
+<br/>
 
-```text
-Arrays              Strings
-Linked Lists        Stacks & Queues
-Binary Search       Recursion
-Trees               Graphs
-Greedy Algorithms   Dynamic Programming
-```
+Problems solved across LeetCode and GeeksforGeeks.
+
+| | | |
+|---|---|---|
+| Arrays | Strings | Linked Lists |
+| Stacks & Queues | Binary Search | Recursion |
+| Trees | Graphs | Greedy Algorithms |
+| Dynamic Programming | | |
 
 ---
 
-# Experience
+## Experience
+
+### Software Development Intern
+**Vibhum Software Services Pvt. Ltd.** · September 2026 – Present
+
+Working on web development and AI-driven solutions, including a real-time conversational AI voice-agent platform.
+
+Also involved in:
+- Website analysis
+- SEO and keyword research
+- Google Trends
+- Content development
+- AI-powered application workflows
 
 ### AI Summer Training Intern
+**CSRBOX × IBM SkillsBuild** · July 2025 – August 2026
 
-**CSRBOX × IBM SkillsBuild**
-
-Worked on practical Artificial Intelligence concepts and explored AI-powered solutions, including agentic AI workflows.
-
-### Web Development Intern
-
-**Vibhum Software Services**
-
-Worked on web development, SEO-related tasks, and AI voice-agent integration workflows.
+Completed project-based training focused on Agentic AI and multi-agent workflows, with practical exposure to AI-driven application development.
 
 ---
 
-# Achievements
+## Achievements
 
 <div align="center">
 
-| Achievement           | Details                  |
-| :-------------------- | :----------------------- |
-| DSA                   | 300+ Problems Solved     |
-| Smart India Hackathon | Participant              |
-| National Hackathons   | Multiple Participations  |
-| IBM SkillsBuild       | Agentic AI Certification |
+| Achievement | Details |
+|---|---|
+| DSA | 400+ Problems Solved |
+| GATE 2026 | AIR 49,459 — Computer Science |
+| Smart India Hackathon | Participant |
+| National Hackathons | Multiple Participations |
+| IBM SkillsBuild | Agentic AI Certification |
 
 </div>
 
 ---
 
-# GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivam290204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&border_radius=12"/>
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam290204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E2E8F0&border_radius=12"/>
 
 <br/><br/>
@@ -256,46 +258,38 @@ Worked on web development, SEO-related tasks, and AI voice-agent integration wor
 
 </div>
 
----
-
-# Contribution Activity
+## Contribution Activity
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam290204&bg_color=0D1117&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam290204&bg_color=0D1117&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true"/>
 </div>
 
 ---
 
-# Connect
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/shivam290204">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/shivam-tiwari-383761292/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/u/shivam_290204/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
+&nbsp;
 <a href="mailto:shivam290204tiwari@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer"/>
 
-### Code. Learn. Build. Grow.
+**Code. Learn. Build. Grow.**
 
 </div>
